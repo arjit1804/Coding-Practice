@@ -5,7 +5,7 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 -  [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
 -  [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
--  [Kth Largest Element in an Array]((https://leetcode.com/problems/kth-largest-element-in-an-array/))
+-  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 -  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 -  [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 -  [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
