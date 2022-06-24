@@ -8,6 +8,7 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 -  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 -  [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+-  [Find the Middle Index in Array](https://leetcode.com/problems/find-pivot-index/)
 -  [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 -  [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 -  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
