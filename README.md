@@ -16,3 +16,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
 -  [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
 -  [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+-  [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
