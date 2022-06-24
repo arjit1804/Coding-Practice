@@ -13,3 +13,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 -  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 -  [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+-  [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
