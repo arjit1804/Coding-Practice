@@ -14,3 +14,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 -  [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 -  [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
+-  [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
