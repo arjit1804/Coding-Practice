@@ -15,3 +15,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 -  [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
 -  [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
+-  [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
