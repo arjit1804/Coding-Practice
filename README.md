@@ -21,3 +21,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 -  [Ransom Note](https://leetcode.com/problems/ransom-note/)
 -  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+-  [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
