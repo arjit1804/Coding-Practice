@@ -19,3 +19,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 -  [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 -  [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+-  [Ransom Note](https://leetcode.com/problems/ransom-note/)
