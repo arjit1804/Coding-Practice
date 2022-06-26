@@ -23,3 +23,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 -  [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 -  [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+-  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
