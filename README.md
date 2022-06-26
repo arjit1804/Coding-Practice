@@ -24,3 +24,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 -  [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 -  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+-  [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
