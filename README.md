@@ -26,3 +26,5 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 -  [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 -  [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+-  [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+-  [Remove Duplicates from sorted linked list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/)
