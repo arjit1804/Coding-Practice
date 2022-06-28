@@ -31,3 +31,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 -  [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 -  [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+-  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
