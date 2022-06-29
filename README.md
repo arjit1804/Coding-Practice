@@ -33,3 +33,6 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 -  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 -  [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+-  [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+-  [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+-  [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
