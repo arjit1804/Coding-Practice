@@ -38,3 +38,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 -  [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 -  [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+-  [Binary Search](https://leetcode.com/problems/binary-search/)
