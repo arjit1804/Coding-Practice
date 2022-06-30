@@ -40,3 +40,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 -  [Binary Search](https://leetcode.com/problems/binary-search/)
 -  [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+-  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
