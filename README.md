@@ -42,3 +42,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 -  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 -  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+-  [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
