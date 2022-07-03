@@ -43,3 +43,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 -  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 -  [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+-  [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
