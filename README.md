@@ -46,3 +46,8 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 -  [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 -  [Flood Fill](https://leetcode.com/problems/flood-fill/)
+-  [Path Sum](https://leetcode.com/problems/path-sum/)
+-  [Single Number](https://leetcode.com/problems/single-number/)
+-  [Implement strStr()]([url](https://leetcode.com/problems/implement-strstr/))
+-  [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+-  [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
