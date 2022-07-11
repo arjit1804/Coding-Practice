@@ -51,3 +51,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Implement strStr()]([url](https://leetcode.com/problems/implement-strstr/))
 -  [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 -  [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+-  [Majority Element](https://leetcode.com/problems/majority-element/)
