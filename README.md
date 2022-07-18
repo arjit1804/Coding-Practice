@@ -48,7 +48,7 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Flood Fill](https://leetcode.com/problems/flood-fill/)
 -  [Path Sum](https://leetcode.com/problems/path-sum/)
 -  [Single Number](https://leetcode.com/problems/single-number/)
--  [Implement strStr()]([url](https://leetcode.com/problems/implement-strstr/))
+-  [Implement strStr](https://leetcode.com/problems/implement-strstr/)
 -  [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 -  [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 -  [Majority Element](https://leetcode.com/problems/majority-element/)
