@@ -52,3 +52,4 @@ Practicing coding questions on numerous sites and uploading the solutions here f
 -  [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 -  [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 -  [Majority Element](https://leetcode.com/problems/majority-element/)
+-  [Smallest Positive Integer that can not be represented as Sum](https://practice.geeksforgeeks.org/problems/b6b608d4eb1c45f2b5cace77c4914f302ff0f80d/1)
